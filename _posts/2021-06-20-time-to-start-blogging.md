@@ -2,11 +2,10 @@
 layout: post
 title: "Time to start blogging"
 author: "Henri Bredt"
-tags: Blog
 permalink: /2021-06-19/time to start blogging.html
 ---
 
-<!-- ![image text](/img/2021-06-19-header.jpg) -->
+![image text](/assets/images/2021-06-19-header.jpg)
 
 <br>
 ## Welcome, I'm happy to see you here

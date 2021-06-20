@@ -13,7 +13,7 @@ plugins:
   - jekyll-paginate
 
 paginate:       5
-
+permalink:      /:year-:month-:day/:title
 
 # Site settings
 title:          Words;
