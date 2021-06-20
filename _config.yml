@@ -1,0 +1,15 @@
+# Author
+author:
+  name:         Henri Bredt
+  url:          https://chester.how
+  email:        hello@henribredt.de
+
+collections:
+  authors:
+    output: true
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
