@@ -4,12 +4,19 @@ author:
   url:          https://chester.how
   email:        hello@henribredt.de
 
-collections:
-  authors:
-    output: true
-
+title: Henris Blog
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-paginate
+
+paginate:       5
+
+
+# Site settings
+title:          Words;
+description:    "Henri's Blog"
+baseurl:        ""
+#url:           "https://chesterhow.github.io"
