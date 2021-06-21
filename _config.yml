@@ -1,10 +1,8 @@
 # Author
 author:
   name:         Henri Bredt
-  url:          https://chester.how
   email:        hello@henribredt.de
-
-title: Henris Blog
+  twitter:      henricreates
 
 plugins:
   - jekyll-feed
@@ -16,7 +14,8 @@ paginate:       5
 permalink:      /:year-:month-:day/:title
 
 # Site settings
-title:          Words;
-description:    "Henri's Blog"
-baseurl:        ""
-#url:           "https://chesterhow.github.io"
+
+title:          Words; by Henri
+navbartitle:    Words;
+baseurl:        "/blog"
+url:            "https://henribredt.de"
