@@ -1,4 +1,4 @@
 - name: Blog
   link: /blog/index.html
-- name: About
-  link: /blog/about.html
+- name: RSS
+  link: /blog/rss.html

@@ -15,7 +15,7 @@ permalink:      /:year-:month-:day/:title
 
 # Site settings
 
-title:          Words; by Henri
+title:          Henri Bredt · Words;
 navbartitle:    Words;
 baseurl:        "/blog"
 url:            "https://henribredt.de"
