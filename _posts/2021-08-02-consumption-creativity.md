@@ -3,7 +3,7 @@ layout: post
 title: "Consume less, create more"
 author: "Henri Bredt"
 date: 2021-08-02 16:00:00 #-2h for MEZ 19:00:00
-permalink: /2021-08-02-consumption-creativity.html
+permalink: /2021-08-02/consumptioncreativity.html
 ---
 
 We have the option to constantly consume and be entertained, so that silent moments of ingenuity have become rare. Spending hours on social media and streaming services instead of making something or thinking feels frictionless. A few months ago, I placed the quote »Consume less, create more« in a photo frame next to my desk - it's a constant reminder. These are my thoughts on consumption and creativity. An advocacy for creating and for consuming to be inspired.

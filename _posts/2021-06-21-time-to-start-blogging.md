@@ -3,7 +3,7 @@ layout: post
 title: "Time to start blogging"
 author: "Henri Bredt"
 date: 2021-06-21 19:00:00 #-2h for MEZ
-permalink: /2021-06-21/time-to-start-blogging.html 
+permalink: /2021-06-21-time-to-start-blogging.html 
 ---
 
 For some time now there has been an item in my to-do list inbox: start a blog. And today is the day where I can cheerfully check off this task. From time to time I will use this space to share my personal thoughts on topics that matter to me. I don't want to impose any rules on myself here, this is supposed to be a creative place for my thoughts. Topics I will be covering might be related to design, productivity, health, personal projects, great books or what ever strikes my mind.
